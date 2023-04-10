@@ -1,4 +1,4 @@
-## Harp Notifications SMS Service
+## Open Source Incident Management system - Harp Notifications SMS Service
 
 ### Full info about Project - https://github.com/harpia-io/harpia
 
